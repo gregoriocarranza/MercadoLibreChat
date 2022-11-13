@@ -1,0 +1,115 @@
+.popup {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  margin: 15% auto;
+  background-color: lightgray;
+  padding: 1rem;
+  border-radius: 2rem;
+}
+.popup h1 {
+  text-align: center;
+  margin: 0.5rem 5rem 0.5rem 5rem;
+}
+.popup h3 {
+  text-align: center;
+  margin: 0.5rem 5rem 1rem 5rem;
+}
+.popup section {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+.popup section .nav-link {
+  width: 5rem;
+  padding: 1rem;
+  border-radius: 2rem;
+  text-align: center;
+  margin: auto 4rem auto 4rem;
+  color: black;
+  text-decoration: none;
+  background-color: gray;
+}
+.popup textarea {
+  margin: 0 0 1rem 0;
+}
+/* ---------------------------------------------------------------- */
+
+.SecUser .UsuariioGrid {
+  padding: 5px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 0.2fr 0.3fr;
+  gap: 2px 2px;
+  grid-auto-flow: row;
+  grid-template-areas: "UsuarioName UsuarioName UsuarioName UsuarioWallet UsuarioWallet" "LinkUsua LinkUsua ServiciosUsuari ServiciosUsuari ServiciosUsuari" "LinkUsua LinkUsua Localidadusuario Localidadusuario Localidadusuario";
+}
+.SecUser .UsuariioGrid div {
+  border: 1px solid black;
+}
+.SecUser .UsuariioGrid .Localidadusuario {
+  border: 1px none black !important;
+  grid-area: Localidadusuario;
+  padding: 6px;
+  margin: auto;
+}
+.SecUser .UsuariioGrid .Localidadusuario div {
+  border: 0px none black !important;
+}
+.SecUser .UsuariioGrid .LinkUsua {
+  padding: 5px;
+  grid-area: LinkUsua;
+}
+.SecUser .UsuariioGrid .UsuarioName {
+  padding: 5px;
+  grid-area: UsuarioName;
+}
+.SecUser .UsuariioGrid .UsuarioName #CambiarFoto {
+  background-color: cadetblue;
+  padding: 0.25rem;
+  border-radius: 15px;
+}
+.SecUser .UsuariioGrid .UsuarioName div {
+  display: flex;
+  border: none;
+}
+.SecUser .UsuariioGrid .UsuarioName div img {
+  height: auto;
+}
+.SecUser .UsuariioGrid .UsuarioName section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 5px;
+}
+.SecUser .UsuariioGrid .UsuarioName h2 {
+  text-transform: capitalize;
+  font-size: x-large;
+  font-family: "Times New Roman", Times, serif;
+}
+.SecUser .UsuariioGrid .UsuarioName p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 300;
+}
+.SecUser .UsuariioGrid .Photoss {
+  width: 15vh;
+}
+.SecUser .UsuariioGrid .UsuarioWallet {
+  padding: 5px;
+  grid-area: UsuarioWallet;
+}
+.SecUser .UsuariioGrid .UsuarioWallet h3 {
+  font-size: large;
+}
+.SecUser .UsuariioGrid .ServiciosUsuari {
+  padding: 5px;
+  grid-area: ServiciosUsuari;
+}
+.SecUser .UsuariioGrid .ServiciosUsuari ul {
+  list-style: none;
+}
+.SecUser .UsuariioGrid .ServiciosUsuari ul li {
+  border: 1px solid black;
+  padding: 3px;
+}

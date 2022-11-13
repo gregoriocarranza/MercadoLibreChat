@@ -1,0 +1,63 @@
+.Card {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0.5rem auto 0.5rem auto;
+    width: 25%;
+    padding: 0.5rem;
+    border: 0.1rem black solid;
+    text-align: center;
+}
+
+.Card .childs {
+
+    margin: auto;
+    width: 40%;
+}
+
+.StoreNav {
+    margin: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.formProd {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 60%;
+
+
+}
+
+.formProd input {
+    width: 20%;
+    margin: 0.3rem auto 0.3rem auto;
+}
+
+.Vendedor {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    border: 0.1rem black solid;
+    margin: 1rem auto 0.1rem auto;
+}
+
+.Vendedor img {
+    border-radius: 100%;
+    width: 10%;
+    height: auto;
+    margin: auto;
+}
+
+.Vendedor section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+
+    width: 55%;
+    margin: auto;
+}

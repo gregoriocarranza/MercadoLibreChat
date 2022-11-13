@@ -1,0 +1,49 @@
+.registro {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  margin: 15% auto;
+  background-color: lightblue;
+  padding: 1rem;
+  border-radius: 2rem;
+}
+.registro h1 {
+  text-align: center;
+  margin: 0.5rem 5rem 0.5rem 5rem;
+}
+.registro form {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.registro form input {
+  margin: 0.2rem;
+  width: 50%;
+}
+
+#submit{
+  width: 25%;
+}
+
+.nav-link {
+  width: 5rem;
+  padding: 1rem;
+  border-radius: 2rem;
+  text-align: center;
+  margin: auto 4rem auto 4rem;
+  color: black;
+  text-decoration: none;
+  background-color: lightcyan;
+}
+.reg2 {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  margin: 15% auto;
+  background-color: lightblue;
+  padding: 1rem;
+  align-items: center;
+  border-radius: 2rem;
+}
