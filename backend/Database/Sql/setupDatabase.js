@@ -51,14 +51,14 @@ knex.schema.createTableIfNotExists('user', table => {
 
 
 knex.schema.createTableIfNotExists('message', table => {
-    table.increments('id')
-    table.primary('id')
-    table.string('uuid')
-    table.integer('userId').unsigned()
+    table.increments('message_id')
+    table.primary('message_id')
+    table.string('message_uuid')
+    table.integer('message_userId').unsigned()
     table.string('message')
-    table.timestamp('created_at').defaultTo(knex.fn.now())
-    table.timestamp('update_at').defaultTo(knex.fn.now())
-    table.foreign('userId').references('user.id').onDelete("CASCADE")
+    table.timestamp('message_created_at').defaultTo(knex.fn.now())
+    table.timestamp('message_update_at').defaultTo(knex.fn.now())
+    table.foreign('message_userId').references('user.id').onDelete("CASCADE")
 }).then(() => {
     console.log('Tabla creada')
 }).catch((err) => {

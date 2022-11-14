@@ -30,6 +30,11 @@
     flex-direction: row;
 }
 
+.Send form {
+    width: 100%;
+    display: flex;
+}
+
 .Send .Textarea {
     padding: 1rem;
     width: 80%;

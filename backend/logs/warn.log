@@ -1446,3 +1446,271 @@
 {"level":40,"time":1668382801546,"pid":2956,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
 {"level":40,"time":1668382803474,"pid":2956,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
 {"level":40,"time":1668382803479,"pid":2956,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 20:40:03 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668383370496,"pid":2704,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668383370497,"pid":2704,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668383402939,"pid":20992,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668383402941,"pid":20992,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668383402941,"pid":20992,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668383405671,"pid":20992,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668383405675,"pid":20992,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 20:50:05 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668383636539,"pid":9244,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668383636540,"pid":9244,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668383636540,"pid":9244,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668383639724,"pid":9244,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668383639728,"pid":9244,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 20:53:59 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668383662258,"pid":16484,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668383662259,"pid":16484,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668383662259,"pid":16484,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668383665943,"pid":8328,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668383665944,"pid":8328,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668383665944,"pid":8328,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668383668551,"pid":8328,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668383668555,"pid":8328,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 20:54:28 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384262152,"pid":21436,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384262153,"pid":21436,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384262153,"pid":21436,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384265367,"pid":21436,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384265372,"pid":21436,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:04:25 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384305704,"pid":16784,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384305705,"pid":16784,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384305705,"pid":16784,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384308561,"pid":16784,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384308567,"pid":16784,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:05:08 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384311315,"pid":20932,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384311316,"pid":20932,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384311316,"pid":20932,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384314334,"pid":20932,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384314338,"pid":20932,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:05:14 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384330844,"pid":19360,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384330845,"pid":19360,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384330845,"pid":19360,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384333880,"pid":19360,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384333885,"pid":19360,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:05:33 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384336975,"pid":12568,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384336976,"pid":12568,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384336976,"pid":12568,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384340028,"pid":12568,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384340032,"pid":12568,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:05:40 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384438730,"pid":11584,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384438731,"pid":11584,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384438732,"pid":11584,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384443125,"pid":20392,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384443126,"pid":20392,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384443126,"pid":20392,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384447056,"pid":20392,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384447061,"pid":20392,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:07:27 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384472329,"pid":15224,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384472330,"pid":15224,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384472330,"pid":15224,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384475423,"pid":15224,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384475427,"pid":15224,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:07:55 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384515708,"pid":15224,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 1"}
+{"level":40,"time":1668384532598,"pid":6924,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384532599,"pid":6924,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384532599,"pid":6924,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384535891,"pid":6924,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384535895,"pid":6924,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:08:55 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384538228,"pid":6924,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 2"}
+{"level":40,"time":1668384613192,"pid":7476,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384613194,"pid":7476,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384613194,"pid":7476,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384616355,"pid":7476,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384616359,"pid":7476,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:10:16 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384620452,"pid":19784,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384620453,"pid":19784,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384620454,"pid":19784,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384624604,"pid":19784,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384624608,"pid":19784,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:10:24 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384684602,"pid":17156,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384684603,"pid":17156,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384684604,"pid":17156,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384687934,"pid":17156,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384687939,"pid":17156,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:11:27 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384700284,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384700285,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384700285,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384703480,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384703485,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:11:43 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384769267,"pid":17924,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384769269,"pid":17924,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384769269,"pid":17924,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384772419,"pid":17924,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384772423,"pid":17924,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:12:52 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384797299,"pid":10744,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384797301,"pid":10744,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384797302,"pid":10744,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384804150,"pid":10744,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384804155,"pid":10744,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:13:24 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384921109,"pid":20820,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384921110,"pid":20820,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384921110,"pid":20820,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384924507,"pid":20820,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384924511,"pid":20820,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:15:24 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384951877,"pid":6028,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384951878,"pid":6028,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384951879,"pid":6028,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384954959,"pid":6028,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384954963,"pid":6028,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:15:54 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668384979511,"pid":9800,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668384979512,"pid":9800,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668384979513,"pid":9800,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668384983593,"pid":9800,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668384983597,"pid":9800,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:16:23 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385016846,"pid":19720,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385016851,"pid":19720,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385016852,"pid":19720,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385020033,"pid":19720,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385020038,"pid":19720,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:17:00 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385041507,"pid":3936,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385041508,"pid":3936,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385041508,"pid":3936,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385044608,"pid":3936,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385044616,"pid":3936,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:17:24 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385123600,"pid":21000,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385123601,"pid":21000,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385123601,"pid":21000,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385129016,"pid":21000,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385129026,"pid":21000,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:18:49 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385205971,"pid":18324,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385205973,"pid":18324,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385205973,"pid":18324,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385210637,"pid":18324,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385210641,"pid":18324,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:20:10 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385236102,"pid":18848,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385236104,"pid":18848,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385236104,"pid":18848,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385240723,"pid":18848,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385240729,"pid":18848,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:20:40 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385262978,"pid":18144,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385262980,"pid":18144,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385262980,"pid":18144,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385266086,"pid":18144,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385266091,"pid":18144,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:21:06 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385299947,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385299949,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385299950,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385304111,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385304118,"pid":19888,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:21:44 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385435648,"pid":4132,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385435649,"pid":4132,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385435649,"pid":4132,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385438886,"pid":4132,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385438891,"pid":4132,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:23:58 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385484252,"pid":12964,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385484253,"pid":12964,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385484253,"pid":12964,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385488335,"pid":12964,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385488340,"pid":12964,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:24:48 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385546715,"pid":19004,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385546717,"pid":19004,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385546717,"pid":19004,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385550008,"pid":19004,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385550012,"pid":19004,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:25:50 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385567127,"pid":19004,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 1"}
+{"level":40,"time":1668385568215,"pid":19004,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 2"}
+{"level":40,"time":1668385568571,"pid":19004,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 3"}
+{"level":40,"time":1668385638273,"pid":16828,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385638275,"pid":16828,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385638275,"pid":16828,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385641584,"pid":16828,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385641588,"pid":16828,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:27:21 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385643632,"pid":20740,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385643633,"pid":20740,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385643634,"pid":20740,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385648075,"pid":20740,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385648084,"pid":20740,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:27:28 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385692871,"pid":4924,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385692872,"pid":4924,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385692873,"pid":4924,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385697843,"pid":4924,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385697853,"pid":4924,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:28:17 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385722829,"pid":17808,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385722830,"pid":17808,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385722831,"pid":17808,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385726046,"pid":17808,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385726050,"pid":17808,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:28:46 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385738963,"pid":17808,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 1"}
+{"level":40,"time":1668385895298,"pid":12168,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385895299,"pid":12168,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385895300,"pid":12168,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385898687,"pid":12168,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385898693,"pid":12168,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:31:38 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385949814,"pid":21644,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385949815,"pid":21644,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385949816,"pid":21644,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385956024,"pid":21644,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385956029,"pid":21644,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:32:36 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385978067,"pid":21980,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385978068,"pid":21980,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385978069,"pid":21980,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668385982234,"pid":21980,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668385982239,"pid":21980,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:33:02 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668385994504,"pid":21508,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668385994505,"pid":21508,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668385994505,"pid":21508,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668386001010,"pid":21508,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668386001014,"pid":21508,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:33:21 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668386026125,"pid":22484,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668386026127,"pid":22484,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668386026128,"pid":22484,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668386029246,"pid":22484,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668386029250,"pid":22484,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:33:49 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668386050078,"pid":21652,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668386050079,"pid":21652,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668386050079,"pid":21652,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668386053283,"pid":21652,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668386053287,"pid":21652,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:34:13 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668386054983,"pid":21652,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 1"}
+{"level":40,"time":1668386056400,"pid":21652,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 2"}
+{"level":40,"time":1668386056553,"pid":21652,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 3"}
+{"level":40,"time":1668386056720,"pid":21652,"hostname":"Gregorio-DESKTOP","msg":"Producto posteado con el id 4"}
+{"level":40,"time":1668386151463,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668386151465,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668386151465,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668386154684,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668386154689,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:35:54 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668386189702,"pid":18284,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668386189704,"pid":18284,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668386189704,"pid":18284,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668386194012,"pid":18284,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668386194017,"pid":18284,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:36:34 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668386232660,"pid":10624,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668386232661,"pid":10624,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668386232662,"pid":10624,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668386236882,"pid":10624,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668386236886,"pid":10624,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 21:37:16 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668387918908,"pid":21580,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668387918909,"pid":21580,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668387918910,"pid":21580,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668387923253,"pid":21580,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668387923257,"pid":21580,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 22:05:23 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668387935814,"pid":19468,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668387935816,"pid":19468,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668387935816,"pid":19468,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668387939004,"pid":19468,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668387939009,"pid":19468,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 22:05:39 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668387952278,"pid":14280,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668387952279,"pid":14280,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668387952280,"pid":14280,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668387958995,"pid":14280,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668387959004,"pid":14280,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 22:05:59 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668387980326,"pid":19884,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668387980328,"pid":19884,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668387980329,"pid":19884,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668387983530,"pid":19884,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668387983534,"pid":19884,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 22:06:23 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668388011702,"pid":16360,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668388011704,"pid":16360,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668388011704,"pid":16360,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668388016992,"pid":16360,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668388016999,"pid":16360,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 22:06:56 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668389001678,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668389001679,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668389001679,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668389006701,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668389006706,"pid":12228,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 22:23:26 GMT-0300 (hora estándar de Argentina)"}
+{"level":40,"time":1668389710999,"pid":14104,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - User_route"}
+{"level":40,"time":1668389711002,"pid":14104,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Product_route"}
+{"level":40,"time":1668389711002,"pid":14104,"hostname":"Gregorio-DESKTOP","msg":"Inicializando modulo - Mesagge_route"}
+{"level":40,"time":1668389715602,"pid":14104,"hostname":"Gregorio-DESKTOP","msg":"base MongoDB conectada"}
+{"level":40,"time":1668389715609,"pid":14104,"hostname":"Gregorio-DESKTOP","msg":"Aplicacion abierta en el puerto 3005 -- Sun Nov 13 2022 22:35:15 GMT-0300 (hora estándar de Argentina)"}

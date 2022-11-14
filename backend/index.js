@@ -9,6 +9,8 @@ const pino = require("pino")
 
 const User_route = require("./src/routes/User_route")
 const Product_route = require("./src/routes/Product_route");
+const Mesagge_route = require("./src/routes/Mesagge_route.js");
+
 const { client } = require("./Database/Sql/dbconfig");
 
 require('dotenv').config()
@@ -45,8 +47,10 @@ const pinoInfo = pino();
 const pinoWarn = pino("./logs/warn.log");
 const pinoError = pino("./logs/error.log");
 
-new User_route(app, pinoError, pinoWarn)
-new Product_route(app, pinoError, pinoWarn)
+let userrout = new User_route(app, pinoError, pinoWarn)
+let productroute = new Product_route(app, pinoError, pinoWarn)
+let messageroute = new Mesagge_route(app, pinoError, pinoWarn)
+
 
 
 app.get("/", async (req, res) => {
@@ -80,11 +84,23 @@ connection.on("Error", (err) => {
 
 
 
-io.on('connection', (client) => {
+io.on('connection', async (client) => {
     console.log("Nueva Coneccion: ", client.id)
+
+    let resp = await messageroute.Get_message()
+    // console.log(resp[0]);
+    client.emit("server:sendAll", resp)
+
+    client.emit("server:sendAll", messageroute.Get_message())
+
     client.on("client:Ping", (data) => {
         console.log(data);
         socket.emit("server:Pong", "PONG")
+
+    })
+    client.on("client:message", (data) => {
+        // console.log(data);
+        messageroute.Post_Message(data)
 
     })
     client.on("disconnect", (reason) => {
