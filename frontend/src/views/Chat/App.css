@@ -60,8 +60,14 @@
 
 .divChat {
     display: flex;
+    min-width: 30rem;
+    min-height: 13rem;
+
+
     max-width: 40rem;
     max-height: 15rem;
+
+    width: 480px;
     margin: 1rem 1rem;
 
     border: black solid 1px;
@@ -75,6 +81,9 @@
 
 .propio {
     background-color: #025144;
+    /* margin-left: auto; */
+    align-self: flex-end;
+
 }
 
 .divChat p {
@@ -121,6 +130,3 @@
     position: relative;
     border: black solid 1px;
 }
-
-
-
