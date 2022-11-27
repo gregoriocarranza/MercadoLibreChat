@@ -1,26 +1,31 @@
-import React, { Fragment, useState, useEffect } from "react";
-import { useRedirect } from "react-admin";
-import io from 'socket.io-client';
+import React, { Fragment, useRef } from "react";
+import { useEffect } from "react";
+
 import "./App.css";
-import Cards from "./Cards.jsx";
-
-let socket = io("http://localhost:3005/")
+import Card from "./Card.jsx";
 
 
-function ChatList() {
-    const [mensajes, setMensajes] = useState([]);
 
-    socket.on("server:sendAll", (data) => {
-        setMensajes(data)
-    })
-    
+
+function ChatList({ props }) {
+    console.log(props);
+
+    const bottomRef = useRef(null);
+
+    useEffect(() => {
+        // 👇️ scroll to bottom every time messages change
+        bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
+    }, [props]);
+
     return (
         <Fragment>
-            {mensajes?.forEach((u) => {
-                console.log(u);
-                <Cards key={u.id} props={u} />
-            })}
+            {props?.map((u) => ((
+                // console.log(u);
 
+                <Card key={u.id} props={u} />
+
+            )))}
+            <div ref={bottomRef} />
         </Fragment>
     )
 }

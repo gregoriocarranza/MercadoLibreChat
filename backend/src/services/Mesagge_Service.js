@@ -24,6 +24,21 @@ class Contenedor {
         }
     }
 
+    async getById(pinoError, id) {
+        try {
+            return new Promise((resolve, reject) => {
+                knex.from("message").select("nombre", "message_uuid", "message", "message_uuid", "message_created_at", "perfil", "uuid").join('user', 'user.id', '=', 'message.message_userId').where({ message_id: id }).then((data) => {
+                    // console.log(data)
+                    resolve(data)
+                })
+            })
+        } catch (error) {
+            console.log(error)
+            pinoError.error(err)
+            return []
+        }
+    }
+
     async save(obj, pinoWarn, pinoError) {
 
         try {

@@ -21,6 +21,12 @@
 .Chat {
     grid-area: Chat;
     border: 1px solid red;
+    overflow-y: scroll;
+
+    display: flex;
+    flex-direction: column;
+
+
 }
 
 .Send {
@@ -28,6 +34,10 @@
     /* border: 1px solid red; */
     display: flex;
     flex-direction: row;
+}
+
+.Send span {
+    text-align: center;
 }
 
 .Send form {
@@ -47,3 +57,70 @@
     height: 80%;
     margin: auto;
 }
+
+.divChat {
+    display: flex;
+    max-width: 40rem;
+    max-height: 15rem;
+    margin: 1rem 1rem;
+
+    border: black solid 1px;
+    border-radius: 1rem;
+
+    background-color: #111E26;
+    color: white;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.propio {
+    background-color: #025144;
+}
+
+.divChat p {
+    display: none;
+}
+
+
+.divChat .datos {
+    display: flex;
+    width: 50%;
+    align-items: center;
+}
+
+.divChat h3 small {
+    font-size: xx-small;
+    text-decoration: underline;
+    padding: 0 1rem;
+}
+
+.divChat h3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.divChat img {
+    width: 7rem;
+    height: auto;
+    border-radius: 1rem;
+
+    margin: 1rem;
+}
+
+.divChat .mensaje {
+    display: block;
+    width: 50%;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border: white solid 1px;
+    border-radius: 1rem;
+}
+
+.propio .mensaje {
+    position: relative;
+    border: black solid 1px;
+}
+
+
+

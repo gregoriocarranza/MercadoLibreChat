@@ -28,7 +28,8 @@ class Mesagge_route {
 
         this.container = new Mesagge_Service
     }
-    Get_message = async () => {
+
+    GetMessage = async () => {
         try {
             return new Promise((resolve, reject) => {
                 console.log("Actualizando Mensajes");
@@ -44,12 +45,34 @@ class Mesagge_route {
         }
     }
 
-    Post_Message = async (a) => {
-        console.log(a);
-        this.container.save(a, this.pinoWarn, this.pinoError).then((resp) => {
+    GetMessageById = async (id) => {
+        try {
+            return new Promise((resolve, reject) => {
+                console.log("Actualizando Mensajes");
+                this.container.getById(this.pinoError, id).then((resp) => {
+                    // console.log(resp)
+                    resolve(resp)
+                })
+            })
 
 
-        })
+        } catch (error) {
+            console.log(error)
+        }
+    }
+
+    PostMessage = async (a) => {
+        try {
+            return new Promise((resolve, reject) => {
+                // console.log(a);
+                this.container.save(a, this.pinoWarn, this.pinoError).then((resp) => {
+                    resolve(resp)
+
+                })
+            })
+        } catch (error) {
+            console.log(error)
+        }
     }
 }
 

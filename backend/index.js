@@ -87,20 +87,19 @@ connection.on("Error", (err) => {
 io.on('connection', async (client) => {
     console.log("Nueva Coneccion: ", client.id)
 
-    let resp = await messageroute.Get_message()
-    // console.log(resp[0]);
-    client.emit("server:sendAll", resp)
-
-    client.emit("server:sendAll", messageroute.Get_message())
+    client.emit("server:sendAll", await messageroute.GetMessage())
 
     client.on("client:Ping", (data) => {
         console.log(data);
         socket.emit("server:Pong", "PONG")
 
     })
-    client.on("client:message", (data) => {
+    client.on("client:message", async (data) => {
         // console.log(data);
-        messageroute.Post_Message(data)
+        let a = await messageroute.PostMessage(data)
+        let resp = await messageroute.GetMessageById(a.data.id)
+        console.log(resp);
+        io.emit("server:sendMessage",resp)
 
     })
     client.on("disconnect", (reason) => {
